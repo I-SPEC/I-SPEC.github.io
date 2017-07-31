@@ -1,0 +1,255 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.i-spec.com" resolutions="1x" timestamp="1501523824669">
+  <folder name="css">
+    <file name="site_global.css" crc="3829460249"/>
+    <file name="index.css" crc="3861134371" ref="index"/>
+    <file name="iefonts_index.css" crc="337607396" ref="index"/>
+    <file name="mail_comp_.css" crc="259689498" ref="mail(comp)"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)"/>
+    <file name="museutils.js" crc="46400467" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)"/>
+    <file name="museconfig.js" crc="436936948" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)"/>
+    <file name="webpro.js" crc="4152390327" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="4286608207" ref="phone>index"/>
+    <file name="form_throttle.php" crc="313199896" ref="phone>index"/>
+    <file name="form_process.php" crc="3855659497" ref="phone>index"/>
+    <file name="form-u3244.php" crc="4019307161" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)"/>
+    <file name="require.js" crc="85721165" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)"/>
+    <file name="musewpslideshow.js" crc="380562115" ref="tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="3986278607" ref="tablet>index:index"/>
+    <file name="touchswipe.js" crc="4228958816" ref="tablet>index:index"/>
+    <file name="form-u3922.php" crc="319296278" ref="tablet>index"/>
+    <file name="form-u1665.php" crc="217272220" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="главная-favicon.ico" crc="371293670" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="u3327_states.png" crc="222588314" ref="phone>index"/>
+    <file name="u3327_states-a.png" crc="222588314" ref="phone>index"/>
+    <file name="u3328_states.png" crc="3851710032" ref="phone>index"/>
+    <file name="u3328_states-a.png" crc="3851710032" ref="phone>index"/>
+    <file name="u3329_states.png" crc="133456321" ref="phone>index"/>
+    <file name="u3329_states-a.png" crc="133456321" ref="phone>index"/>
+    <file name="u3330_states.png" crc="3829746277" ref="phone>index"/>
+    <file name="u3330_states-a.png" crc="3829746277" ref="phone>index"/>
+    <file name="facebook.png" crc="3968729768" seo="true" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+    </file>
+    <file name="google.png" crc="3828734390" seo="true" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+    </file>
+    <file name="twitter.png" crc="161910174" seo="true" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+    </file>
+    <file name="youtube.png" crc="210883711" seo="true" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+    </file>
+    <file name="vk.jpg" crc="4077628178" seo="true" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+    </file>
+    <file name="i-spc.png" crc="4130388985" seo="true" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+    </file>
+    <file name="без имени-4.jpg" crc="4157205972" ref="phone>index:phone>mail:tablet>index:tablet>mail:index:mail(comp)">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail" alt=""/>
+      <caption webpage="mail(comp)" alt=""/>
+    </file>
+    <file name="map.jpg" crc="182307236" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3264-4.png" crc="283283398" ref="phone>index"/>
+    <file name="u3267-4.png" crc="4273704906" ref="phone>index"/>
+    <file name="u3268-4.png" crc="4148239752" ref="phone>index"/>
+    <file name="u3271-4.png" crc="247506297" ref="phone>index"/>
+    <file name="u3659_states.png" crc="3883004400" ref="phone>index"/>
+    <file name="u3659_states-a.png" crc="3883004400" ref="phone>index"/>
+    <file name="iphone-77-plus-40-b1ac.png" crc="3777466303" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3662_states.png" crc="3883004400" ref="phone>index"/>
+    <file name="u3662_states-a.png" crc="3883004400" ref="phone>index"/>
+    <file name="u3622-10.png" crc="3926194307" ref="phone>index"/>
+    <file name="u3625-9.png" crc="362597264" ref="phone>index"/>
+    <file name="u3628-7.png" crc="124208732" ref="phone>index"/>
+    <file name="u3631-7.png" crc="397766649" ref="phone>index"/>
+    <file name="notes-u3240.png" crc="4131101952" ref="phone>index"/>
+    <file name="u3306-4.png" crc="214470728" ref="phone>index"/>
+    <file name="u3308-5.png" crc="475951732" ref="phone>index"/>
+    <file name="u3634-9.png" crc="352661724" ref="phone>index"/>
+    <file name="u3643-12.png" crc="4172821099" ref="phone>index"/>
+    <file name="u3665_states.png" crc="3883004400" ref="phone>index"/>
+    <file name="u3665_states-a.png" crc="3883004400" ref="phone>index"/>
+    <file name="паапа.png" crc="4107387090" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3242-4.png" crc="4210912628" ref="phone>index"/>
+    <file name="u3243-4.png" crc="212470734" ref="phone>index"/>
+    <file name="u3250.png" crc="407837924" ref="phone>index"/>
+    <file name="u3250-r.png" crc="250962963" ref="phone>index"/>
+    <file name="u3250-fs.png" crc="417684970" ref="phone>index"/>
+    <file name="u3313-4.png" crc="4025729131" ref="phone>index"/>
+    <file name="u3668_states.png" crc="3883004400" ref="phone>index"/>
+    <file name="u3668_states-a.png" crc="3883004400" ref="phone>index"/>
+    <file name="mail-favicon.ico" crc="371293670" ref="phone>mail"/>
+    <file name="u3839-4.png" crc="24826506" ref="phone>mail"/>
+    <file name="u3740-4.png" crc="323896697" ref="phone>mail"/>
+    <file name="u3917-4.png" crc="476478820" ref="tablet>index"/>
+    <file name="u3942-4.png" crc="506348102" ref="tablet>index"/>
+    <file name="u3945-4.png" crc="13770476" ref="tablet>index"/>
+    <file name="u3946-4.png" crc="380499362" ref="tablet>index"/>
+    <file name="u3949-4.png" crc="4005326736" ref="tablet>index"/>
+    <file name="map2-crop-u3940.jpg" crc="265163528" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5784b9e5b6401155de762973.png" crc="31572689" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u4005_states.png" crc="469502858" ref="tablet>index"/>
+    <file name="u4005_states-a.png" crc="469502858" ref="tablet>index"/>
+    <file name="u4006_states.png" crc="288957950" ref="tablet>index"/>
+    <file name="u4006_states-a.png" crc="288957950" ref="tablet>index"/>
+    <file name="u4007_states.png" crc="4098071411" ref="tablet>index"/>
+    <file name="u4007_states-a.png" crc="4098071411" ref="tablet>index"/>
+    <file name="u4008_states.png" crc="291103545" ref="tablet>index"/>
+    <file name="u4008_states-a.png" crc="291103545" ref="tablet>index"/>
+    <file name="u4025_states.png" crc="3967626561" ref="tablet>index"/>
+    <file name="u4025_states-a.png" crc="3967626561" ref="tablet>index"/>
+    <file name="u3939-4.png" crc="4259312916" ref="tablet>index"/>
+    <file name="notes-u3918.png" crc="4131101952" ref="tablet>index"/>
+    <file name="u3985-15.png" crc="4216179824" ref="tablet>index"/>
+    <file name="u3987-14.png" crc="4030381770" ref="tablet>index"/>
+    <file name="u3984-4.png" crc="3877028480" ref="tablet>index"/>
+    <file name="u3986-5.png" crc="4273330426" ref="tablet>index"/>
+    <file name="u4027_states.png" crc="3967626561" ref="tablet>index"/>
+    <file name="u4027_states-a.png" crc="3967626561" ref="tablet>index"/>
+    <file name="u3920-4.png" crc="4210912628" ref="tablet>index"/>
+    <file name="u3921-4.png" crc="142912464" ref="tablet>index"/>
+    <file name="u3991-4.png" crc="4134942540" ref="tablet>index"/>
+    <file name="u4028_states.png" crc="3967626561" ref="tablet>index"/>
+    <file name="u4028_states-a.png" crc="3967626561" ref="tablet>index"/>
+    <file name="u4436-4.png" crc="204643049" ref="tablet>mail"/>
+    <file name="u4324-4.png" crc="190057462" ref="tablet>mail"/>
+    <file name="notes-u1540.png" crc="4131101952" ref="index"/>
+    <file name="u2666-4.png" crc="4212063406" ref="index"/>
+    <file name="u2673-5.png" crc="529001483" ref="index"/>
+    <file name="u211-4.png" crc="523675004" ref="index"/>
+    <file name="скарость.png" crc="293550953" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2183-4.png" crc="506348102" ref="index"/>
+    <file name="качество.png" crc="4122699674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2200-4.png" crc="13770476" ref="index"/>
+    <file name="u2217-4.png" crc="380499362" ref="index"/>
+    <file name="u2230-4.png" crc="4005326736" ref="index"/>
+    <file name="u3020_states.png" crc="4009442751" ref="index"/>
+    <file name="u3020_states-a.png" crc="4009442751" ref="index"/>
+    <file name="u3023_states.png" crc="4085584518" ref="index"/>
+    <file name="u3023_states-a.png" crc="4085584518" ref="index"/>
+    <file name="u3026_states.png" crc="4219499296" ref="index"/>
+    <file name="u3026_states-a.png" crc="4219499296" ref="index"/>
+    <file name="u3029_states.png" crc="4175417126" ref="index"/>
+    <file name="u3029_states-a.png" crc="4175417126" ref="index"/>
+    <file name="u3053_states.png" crc="3967626561" ref="index"/>
+    <file name="u3053_states-a.png" crc="3967626561" ref="index"/>
+    <file name="u3059_states.png" crc="3967626561" ref="index"/>
+    <file name="u3059_states-a.png" crc="3967626561" ref="index"/>
+    <file name="map2.jpg" crc="4035061824" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pixel-open-front.png" crc="457622493" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="цены.png" crc="3950050178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="стаж.png" crc="4072449916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2724-4.png" crc="4134942540" ref="index"/>
+    <file name="u3062_states.png" crc="3967626561" ref="index"/>
+    <file name="u3062_states-a.png" crc="3967626561" ref="index"/>
+    <file name="mail(comp)-favicon.ico" crc="371293670" ref="mail(comp)"/>
+    <file name="u3099-4.png" crc="421505600" ref="mail(comp)"/>
+    <file name="u3111-4.png" crc="4210835175" ref="mail(comp)"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4117144322" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="438484489" ref="tablet>index"/>
+      <file name="mail.css" crc="367500132" ref="tablet>mail"/>
+    </folder>
+    <file name="index.html" crc="4273960025" seo="true" mt="1501523180423" redirect="true"/>
+    <file name="mail.html" crc="262462376" seo="true" mt="1501489361589" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4289481162" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="18414867" ref="phone>index"/>
+      <file name="mail.css" crc="146666403" ref="phone>mail"/>
+    </folder>
+    <file name="index.html" crc="31220610" seo="true" mt="1501523713473" redirect="true"/>
+    <file name="mail.html" crc="506888186" seo="true" mt="1501489443956" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="435126271" seo="true" mt="1501523114493" redirect="true"/>
+  <file name="mail(comp).html" crc="3816420284" seo="true" mt="1501523764834" redirect="true"/>
+</manifest>
